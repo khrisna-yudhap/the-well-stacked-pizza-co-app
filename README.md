@@ -1,6 +1,6 @@
 # The Well Stacked Pizza Co. Flutter App
 
-A new Flutter project.
+A Final Project for Bootcamp UTY 2023 (HiCamp 2023)
 
 ## Getting Started
 
