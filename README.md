@@ -1,4 +1,4 @@
-# final_project
+# The Well Stacked Pizza Co. Flutter App
 
 A new Flutter project.
 
